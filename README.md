@@ -8,8 +8,8 @@ Este aplicativo, chamado **Calculadora de IMC**, tem como objetivo permitir que 
 
 ## Matrícula dos Componentes da Dupla
 
-- Componente 1: [Inserir nome] – Matrícula: [Inserir matrícula]
-- Componente 2: [Inserir nome] – Matrícula: [Inserir matrícula]
+- Componente 1: [Guilherme Santos] – Matrícula: [123100030]
+- Componente 2: [Miguel Estevam] – Matrícula: [12317020]
 
 ---
 
